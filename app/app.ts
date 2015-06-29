@@ -1,5 +1,5 @@
 /// <reference path="../typings/tsd.d.ts" />
-import {Component, View, bootstrap, NgFor} from 'angular2/angular2';
+import {Component, View, bootstrap, NgFor, NgIf} from 'angular2/angular2';
 import {FetchService} from 'services/fetchService';
 
 @Component({
@@ -8,7 +8,7 @@ import {FetchService} from 'services/fetchService';
 })
 @View({
   templateUrl: "templates/main.html",
-  directives: [NgFor]
+  directives: [NgFor, NgIf]
 })
 class App {
   foods: Array<Object>;
@@ -25,7 +25,7 @@ class App {
     fetchService.loadFoods().then(response => {
       this.foods = response;
     }, response => {
-      // console.warn("foods loading failed (it should, file doesnt exist)");
+      console.warn("foods loading failed (it should, file doesnt exist)");
     });
 
   }
@@ -35,8 +35,9 @@ class App {
       
       for (var i = 0; i < this.foods.length; i++) {
         if( this.foods[i].name.indexOf(aliment.value) != -1){
-          // console.log(poids.value);
-          this.calculateKcal(this.foods[i], poids.value);
+          this.calculateKcal(this.foods[i].calories, poids.value);
+          this.foodList.push({"name":this.foods[i].name, "calories":this.foods[i].calories, "poids":poids.value });
+
           break;
         }
       };
@@ -46,10 +47,9 @@ class App {
 
     }
 
-    calculateKcal(food, poids){
-
-      this.calories += parseInt(food.calories * (poids/100) );
-      this.foodList.push({"name":food.name, "calories":this.calories, "poids":poids });
+    calculateKcal(foodCalories, poids){
+      var calories = parseInt(foodCalories * (poids/100) );
+      this.calories += calories;
     }
 
     calculMetabolisme(event, taille, masse, age){
