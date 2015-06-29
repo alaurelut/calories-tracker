@@ -1,0 +1,19 @@
+var FetchService = (function () {
+    function FetchService() {
+    }
+    FetchService.prototype.loadFoods = function () {
+        return new Promise(function (resolve, reject) {
+            fetch('data/Foods.json')
+                .then(function (response) { return response.json(); })
+                .then(function (response) {
+                resolve(response);
+            }).catch(function () {
+                reject();
+            });
+        });
+    };
+    return FetchService;
+})();
+exports.FetchService = FetchService;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNlcnZpY2VzL2ZldGNoU2VydmljZS50cyJdLCJuYW1lcyI6WyJGZXRjaFNlcnZpY2UiLCJGZXRjaFNlcnZpY2UuY29uc3RydWN0b3IiLCJGZXRjaFNlcnZpY2UubG9hZEZvb2RzIl0sIm1hcHBpbmdzIjoiQUFBQTtJQUFBQTtJQWNBQyxDQUFDQTtJQVpDRCxnQ0FBU0EsR0FBVEE7UUFDRUUsTUFBTUEsQ0FBQ0EsSUFBSUEsT0FBT0EsQ0FBQ0EsVUFBQ0EsT0FBT0EsRUFBRUEsTUFBTUE7WUFDakNBLEtBQUtBLENBQUNBLGlCQUFpQkEsQ0FBQ0E7aUJBQ3ZCQSxJQUFJQSxDQUFDQSxVQUFBQSxRQUFRQSxJQUFJQSxPQUFBQSxRQUFRQSxDQUFDQSxJQUFJQSxFQUFFQSxFQUFmQSxDQUFlQSxDQUFDQTtpQkFDakNBLElBQUlBLENBQUNBLFVBQUFBLFFBQVFBO2dCQUNaQSxPQUFPQSxDQUFDQSxRQUFRQSxDQUFDQSxDQUFDQTtZQUNwQkEsQ0FBQ0EsQ0FBQ0EsQ0FBQ0EsS0FBS0EsQ0FBQ0E7Z0JBQ1BBLE1BQU1BLEVBQUVBLENBQUNBO1lBQ1hBLENBQUNBLENBQUNBLENBQUNBO1FBQ0xBLENBQUNBLENBQUNBLENBQUNBO0lBQ0xBLENBQUNBO0lBRUhGLG1CQUFDQTtBQUFEQSxDQWRBLEFBY0NBLElBQUE7QUFkWSxvQkFBWSxlQWN4QixDQUFBIiwiZmlsZSI6InNlcnZpY2VzL2ZldGNoU2VydmljZS5qcyIsInNvdXJjZXNDb250ZW50IjpbImV4cG9ydCBjbGFzcyBGZXRjaFNlcnZpY2Uge1xuXG4gIGxvYWRGb29kcygpIHtcbiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4ge1xuICAgICAgZmV0Y2goJ2RhdGEvRm9vZHMuanNvbicpXG4gICAgICAudGhlbihyZXNwb25zZSA9PiByZXNwb25zZS5qc29uKCkpXG4gICAgICAudGhlbihyZXNwb25zZSA9PiB7XG4gICAgICAgIHJlc29sdmUocmVzcG9uc2UpO1xuICAgICAgfSkuY2F0Y2goKCkgPT4ge1xuICAgICAgICByZWplY3QoKTtcbiAgICAgIH0pO1xuICAgIH0pO1xuICB9XG5cbn0iXSwic291cmNlUm9vdCI6Ii9zb3VyY2UvIn0=
