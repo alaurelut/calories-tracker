@@ -1,0 +1,3042 @@
+[
+{
+    "name": "apéricube la vache qui rit (à\nl'unité)",
+    "calories": "16"
+},
+{
+    "name": "bretzel (à l'unité 15 g)",
+    "calories": "80"
+},
+{
+    "name": "cacahuètes (à l'unité)",
+    "calories": "10"
+},
+{
+    "name": "chipster salé",
+    "calories": "460"
+},
+{
+    "name": "chips vico à l'ancienne saveur moutarde",
+    "calories": "549"
+},
+{
+    "name": "crackers belin monaco emmental",
+    "calories": "555"
+},
+{
+    "name": "miniquiche",
+    "calories": "537"
+},
+{
+    "name": "minizza",
+    "calories": "492"
+},
+{
+    "name": "monaco",
+    "calories": "507"
+},
+{
+    "name": "mousse de poisson",
+    "calories": "185"
+},
+{
+    "name": "noix de cajou",
+    "calories": "612"
+},
+{
+    "name": "oeufs de lump",
+    "calories": "125"
+},
+{
+    "name": "oeufs de poisson (1 c.à café)",
+    "calories": "28"
+},
+{
+    "name": "olives noires",
+    "calories": "336"
+},
+{
+    "name": "olives vertes",
+    "calories": "123"
+},
+{
+    "name": "pistaches",
+    "calories": "617"
+},
+{
+    "name": "pringles original",
+    "calories": "540"
+},
+{
+    "name": "rillettes d'oie",
+    "calories": "464"
+},
+{
+    "name": "rillettes de saumon",
+    "calories": "320"
+},
+{
+    "name": "bière canette = 33 cl",
+    "calories": "178"
+},
+{
+    "name": "bière \"33\" export bouteille = 25 cl",
+    "calories": "97"
+},
+{
+    "name": "bière sans alcool canette = 33 cl",
+    "calories": "9"
+},
+{
+    "name": "calvados verre à liqueur = 4 cl",
+    "calories": "100"
+},
+{
+    "name": "champagne brut flûte",
+    "calories": "70"
+},
+{
+    "name": "champagne doux flûte",
+    "calories": "120"
+},
+{
+    "name": "coca cola verre = 250 ml",
+    "calories": "100"
+},
+{
+    "name": "cognac verre = 4 cl",
+    "calories": "192"
+},
+{
+    "name": "eau-de-vie verre à liqueur = 4 cl",
+    "calories": "100"
+},
+{
+    "name": "martini verre = 8 cl",
+    "calories": "128"
+},
+{
+    "name": "mousseux coupe = 10 cl",
+    "calories": "70"
+},
+{
+    "name": "muscat verre = 15 cl",
+    "calories": "240"
+},
+{
+    "name": "oasis orange verre = 15 cl",
+    "calories": "68"
+},
+{
+    "name": "orangina verre = 15 cl",
+    "calories": "71"
+},
+{
+    "name": "orangina light verre = 15 cl",
+    "calories": "11"
+},
+{
+    "name": "pastis dose = 4 cl",
+    "calories": "130"
+},
+{
+    "name": "pepsi pour 100ml",
+    "calories": "42"
+},
+{
+    "name": "perrier",
+    "calories": "0"
+},
+{
+    "name": "porto verre = 7 cl",
+    "calories": "80"
+},
+{
+    "name": "punch verre = 8 cl",
+    "calories": "110-160"
+},
+{
+    "name": "rhum verre = 4 cl",
+    "calories": "154"
+},
+{
+    "name": "ricard dose = 4 cl",
+    "calories": "130"
+},
+{
+    "name": "sirop à l'eau 10 g pour 1 verre",
+    "calories": "33"
+},
+{
+    "name": "sprite 1 verre = 15 cl",
+    "calories": "54"
+},
+{
+    "name": "spiritueux verre = 4 cl",
+    "calories": "112"
+},
+{
+    "name": "suze verre = 8 cl",
+    "calories": "84"
+},
+{
+    "name": "thé glacé pour 100ml",
+    "calories": "30"
+},
+{
+    "name": "vermouth verre = 7 cl",
+    "calories": "77"
+},
+{
+    "name": "vin blanc 10° verre = 15 cl",
+    "calories": "108"
+},
+{
+    "name": "vin rouge 12° verre = 15 cl",
+    "calories": "105"
+},
+{
+    "name": "vin cuit verre = 7 cl",
+    "calories": "160"
+},
+{
+    "name": "vodka verre à liqueur = 4 cl",
+    "calories": "100"
+},
+{
+    "name": "whisky verre = 8 cl",
+    "calories": "384"
+},
+{
+    "name": "barre céréales et chocolat taillefine",
+    "calories": "79"
+},
+{
+    "name": "barre kit kat",
+    "calories": "518"
+},
+{
+    "name": "barre mars",
+    "calories": "423"
+},
+{
+    "name": "barre muesli",
+    "calories": "531"
+},
+{
+    "name": "barre snickers",
+    "calories": "467"
+},
+{
+    "name": "barre twix",
+    "calories": "499"
+},
+{
+    "name": "bonbons m&m's",
+    "calories": "526"
+},
+{
+    "name": "boudoir",
+    "calories": "388"
+},
+{
+    "name": "cassonade",
+    "calories": "380"
+},
+{
+    "name": "chocolat au lait",
+    "calories": "550"
+},
+{
+    "name": "chocolat blanc",
+    "calories": "570"
+},
+{
+    "name": "chocolat noir",
+    "calories": "520"
+},
+{
+    "name": "confits abricots",
+    "calories": "338"
+},
+{
+    "name": "confits ananas",
+    "calories": "316"
+},
+{
+    "name": "cookies",
+    "calories": "464"
+},
+{
+    "name": "crème chantilly",
+    "calories": "288"
+},
+{
+    "name": "crème glacée pistache",
+    "calories": "451"
+},
+{
+    "name": "crème glacée chocolat",
+    "calories": "235"
+},
+{
+    "name": "crème glacée fraises",
+    "calories": "192"
+},
+{
+    "name": "crème glacée vanille",
+    "calories": "165"
+},
+{
+    "name": "crêpe nature",
+    "calories": "227"
+},
+{
+    "name": "croissant beurre",
+    "calories": "406"
+},
+{
+    "name": "eclair au chocolat",
+    "calories": "262"
+},
+{
+    "name": "ferrero rocher",
+    "calories": "560"
+},
+{
+    "name": "gâteau au chocolat",
+    "calories": "360"
+},
+{
+    "name": "gaufre nature",
+    "calories": "291"
+},
+{
+    "name": "gingembre confit",
+    "calories": "351"
+},
+{
+    "name": "miel",
+    "calories": "304"
+},
+{
+    "name": "nutella",
+    "calories": "530"
+},
+{
+    "name": "pain au chocolat",
+    "calories": "410"
+},
+{
+    "name": "pain d'épice",
+    "calories": "356"
+},
+{
+    "name": "pâte de fruit",
+    "calories": "217"
+},
+{
+    "name": "petit ecolier",
+    "calories": "495"
+},
+{
+    "name": "pop corn",
+    "calories": "382"
+},
+{
+    "name": "réglisse",
+    "calories": "377"
+},
+{
+    "name": "sirop d'agave",
+    "calories": "376"
+},
+{
+    "name": "sorbet",
+    "calories": "90"
+},
+{
+    "name": "sucre",
+    "calories": "396"
+},
+{
+    "name": "sucre canne",
+    "calories": "396"
+},
+{
+    "name": "sucre glace",
+    "calories": "399"
+},
+{
+    "name": "sucre roux",
+    "calories": "390"
+},
+{
+    "name": "sucre vanillé",
+    "calories": "396"
+},
+{
+    "name": "belons",
+    "calories": "80"
+},
+{
+    "name": "bigorneaux (décortiqués)",
+    "calories": "100"
+},
+{
+    "name": "bouquet de crevettes",
+    "calories": "98"
+},
+{
+    "name": "clams",
+    "calories": "80"
+},
+{
+    "name": "clovisses",
+    "calories": "50"
+},
+{
+    "name": "coques",
+    "calories": "47"
+},
+{
+    "name": "coquillages",
+    "calories": "60"
+},
+{
+    "name": "coquille st-jacques",
+    "calories": "74"
+},
+{
+    "name": "couteaux",
+    "calories": "55"
+},
+{
+    "name": "crabe (conserve)",
+    "calories": "103"
+},
+{
+    "name": "crabe frais",
+    "calories": "85"
+},
+{
+    "name": "crevettes (dizaine)",
+    "calories": "49"
+},
+{
+    "name": "crevettes grises",
+    "calories": "98"
+},
+{
+    "name": "crustacés",
+    "calories": "85"
+},
+{
+    "name": "ecrevisses",
+    "calories": "71"
+},
+{
+    "name": "gambas",
+    "calories": "98"
+},
+{
+    "name": "homard",
+    "calories": "80"
+},
+{
+    "name": "huîtres",
+    "calories": "70"
+},
+{
+    "name": "huîtres (douze)",
+    "calories": "110"
+},
+{
+    "name": "langouste",
+    "calories": "90"
+},
+{
+    "name": "langoustine",
+    "calories": "90"
+},
+{
+    "name": "mollusques",
+    "calories": "70"
+},
+{
+    "name": "moules",
+    "calories": "70"
+},
+{
+    "name": "oursins",
+    "calories": "95"
+},
+{
+    "name": "palourdes",
+    "calories": "50"
+},
+{
+    "name": "pétoncles",
+    "calories": "70"
+},
+{
+    "name": "poulpe",
+    "calories": "61"
+},
+{
+    "name": "praires",
+    "calories": "47"
+},
+{
+    "name": "scampi",
+    "calories": "90"
+},
+{
+    "name": "seiche",
+    "calories": "85"
+},
+{
+    "name": "tourteau",
+    "calories": "85"
+},
+{
+    "name": "aiglefin",
+    "calories": "71"
+},
+{
+    "name": "anchois",
+    "calories": "160"
+},
+{
+    "name": "anguille",
+    "calories": "250"
+},
+{
+    "name": "anguille fumée",
+    "calories": "305"
+},
+{
+    "name": "araignée de mer",
+    "calories": "95"
+},
+{
+    "name": "bar",
+    "calories": "90"
+},
+{
+    "name": "barbue",
+    "calories": "117"
+},
+{
+    "name": "baudroie ou lotte",
+    "calories": "79"
+},
+{
+    "name": "brème",
+    "calories": "100"
+},
+{
+    "name": "brochet",
+    "calories": "78"
+},
+{
+    "name": "cabillaud ou morue",
+    "calories": "79"
+},
+{
+    "name": "calmar",
+    "calories": "89"
+},
+{
+    "name": "carpe d'élevage",
+    "calories": "90"
+},
+{
+    "name": "carpe sauvage",
+    "calories": "145"
+},
+{
+    "name": "carrelet",
+    "calories": "65"
+},
+{
+    "name": "caviar",
+    "calories": "275"
+},
+{
+    "name": "colin ou merlu",
+    "calories": "92"
+},
+{
+    "name": "congre",
+    "calories": "110"
+},
+{
+    "name": "daurade",
+    "calories": "77"
+},
+{
+    "name": "eglefin",
+    "calories": "71"
+},
+{
+    "name": "encornet",
+    "calories": "89"
+},
+{
+    "name": "eperlan",
+    "calories": "78"
+},
+{
+    "name": "espadon",
+    "calories": "116"
+},
+{
+    "name": "esturgeon",
+    "calories": "125"
+},
+{
+    "name": "flétan",
+    "calories": "117"
+},
+{
+    "name": "gardon",
+    "calories": "112"
+},
+{
+    "name": "goujon",
+    "calories": "62"
+},
+{
+    "name": "grondin",
+    "calories": "95"
+},
+{
+    "name": "haddock",
+    "calories": "103"
+},
+{
+    "name": "hareng",
+    "calories": "200"
+},
+{
+    "name": "hareng frais",
+    "calories": "149"
+},
+{
+    "name": "hareng fumé",
+    "calories": "200"
+},
+{
+    "name": "lamproie",
+    "calories": "177"
+},
+{
+    "name": "lançon ou équille",
+    "calories": "79"
+},
+{
+    "name": "lieu",
+    "calories": "90"
+},
+{
+    "name": "limande",
+    "calories": "78"
+},
+{
+    "name": "lotte ou baudroie",
+    "calories": "79"
+},
+{
+    "name": "maquereau (conserve)",
+    "calories": "205"
+},
+{
+    "name": "maquereau frais",
+    "calories": "128"
+},
+{
+    "name": "merlan",
+    "calories": "90"
+},
+{
+    "name": "merlu ou colin",
+    "calories": "92"
+},
+{
+    "name": "mérou",
+    "calories": "225"
+},
+{
+    "name": "morue",
+    "calories": "79"
+},
+{
+    "name": "morue salée",
+    "calories": "163"
+},
+{
+    "name": "morue séchée",
+    "calories": "322"
+},
+{
+    "name": "mulet",
+    "calories": "151"
+},
+{
+    "name": "murène",
+    "calories": "176"
+},
+{
+    "name": "oeufs de lump",
+    "calories": "80"
+},
+{
+    "name": "oeufs de poissons",
+    "calories": "225"
+},
+{
+    "name": "omble ou ombre",
+    "calories": "123"
+},
+{
+    "name": "ormeaux",
+    "calories": "92"
+},
+{
+    "name": "pagre",
+    "calories": "77"
+},
+{
+    "name": "perche",
+    "calories": "112"
+},
+{
+    "name": "pieuvre",
+    "calories": "61"
+},
+{
+    "name": "plie",
+    "calories": "65"
+},
+{
+    "name": "poissons à l'huile",
+    "calories": "325"
+},
+{
+    "name": "poissons demi-gras",
+    "calories": "120"
+},
+{
+    "name": "poissons fumés",
+    "calories": "265"
+},
+{
+    "name": "poissons gras",
+    "calories": "180"
+},
+{
+    "name": "poissons maigres",
+    "calories": "75"
+},
+{
+    "name": "poissons panés",
+    "calories": "175"
+},
+{
+    "name": "poissons séchés",
+    "calories": "320"
+},
+{
+    "name": "raie",
+    "calories": "89"
+},
+{
+    "name": "rascasse",
+    "calories": "98"
+},
+{
+    "name": "requin",
+    "calories": "106"
+},
+{
+    "name": "rollmops",
+    "calories": "224"
+},
+{
+    "name": "rouget-barbet",
+    "calories": "148"
+},
+{
+    "name": "rouget-grondin",
+    "calories": "95"
+},
+{
+    "name": "roussette",
+    "calories": "106"
+},
+{
+    "name": "saint-jacques",
+    "calories": "74"
+},
+{
+    "name": "saint-pierre",
+    "calories": "74"
+},
+{
+    "name": "sandre",
+    "calories": "112"
+},
+{
+    "name": "sardines à l'huile",
+    "calories": "125"
+},
+{
+    "name": "sardines fraîches",
+    "calories": "77"
+},
+{
+    "name": "saumon (conserve)",
+    "calories": "170"
+},
+{
+    "name": "saumon frais",
+    "calories": "200"
+},
+{
+    "name": "saumon fumé",
+    "calories": "265"
+},
+{
+    "name": "saumonette",
+    "calories": "106"
+},
+{
+    "name": "silure",
+    "calories": "250"
+},
+{
+    "name": "sole",
+    "calories": "78"
+},
+{
+    "name": "soupe de poissons (1 louche)",
+    "calories": "90"
+},
+{
+    "name": "sprats",
+    "calories": "160"
+},
+{
+    "name": "tanche",
+    "calories": "75"
+},
+{
+    "name": "thon à l'huile",
+    "calories": "280"
+},
+{
+    "name": "thon au naturel",
+    "calories": "225"
+},
+{
+    "name": "thon frais",
+    "calories": "225"
+},
+{
+    "name": "truite",
+    "calories": "103"
+},
+{
+    "name": "truite saumonnée",
+    "calories": "151"
+},
+{
+    "name": "turbot",
+    "calories": "118"
+},
+{
+    "name": "turbotin",
+    "calories": "118"
+},
+{
+    "name": "abats",
+    "calories": "120"
+},
+{
+    "name": "abats en sauce",
+    "calories": "290"
+},
+{
+    "name": "agneau",
+    "calories": "280"
+},
+{
+    "name": "agneau (cervelle)",
+    "calories": "112"
+},
+{
+    "name": "agneau (côtelettes)",
+    "calories": "330"
+},
+{
+    "name": "agneau (épaule)",
+    "calories": "289"
+},
+{
+    "name": "agneau (foie)",
+    "calories": "132"
+},
+{
+    "name": "agneau (gigot)",
+    "calories": "250"
+},
+{
+    "name": "agneau (langue)",
+    "calories": "193"
+},
+{
+    "name": "agneau (rognon)",
+    "calories": "87"
+},
+{
+    "name": "agneau (selle)",
+    "calories": "234"
+},
+{
+    "name": "aiguillette de boeuf",
+    "calories": "200"
+},
+{
+    "name": "aloyau de boeuf",
+    "calories": "266"
+},
+{
+    "name": "aloyau de veau",
+    "calories": "175"
+},
+{
+    "name": "andouille",
+    "calories": "300"
+},
+{
+    "name": "andouillette",
+    "calories": "320"
+},
+{
+    "name": "bacon",
+    "calories": "385"
+},
+{
+    "name": "bavette (boeuf)",
+    "calories": "200"
+},
+{
+    "name": "bifteck de boeuf",
+    "calories": "200"
+},
+{
+    "name": "bifteck de cheval",
+    "calories": "110"
+},
+{
+    "name": "boeuf",
+    "calories": "250"
+},
+{
+    "name": "boeuf (aiguillette)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (aloyau)",
+    "calories": "266"
+},
+{
+    "name": "boeuf (araignée)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (bavette)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (cervelle)",
+    "calories": "130"
+},
+{
+    "name": "boeuf (coeur)",
+    "calories": "126"
+},
+{
+    "name": "boeuf (corned-beef)",
+    "calories": "275"
+},
+{
+    "name": "boeuf (côte)",
+    "calories": "260"
+},
+{
+    "name": "boeuf (culotte)",
+    "calories": "289"
+},
+{
+    "name": "boeuf (échine)",
+    "calories": "257"
+},
+{
+    "name": "boeuf (entrecôte)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (épaule)",
+    "calories": "216"
+},
+{
+    "name": "boeuf (faux-filet)",
+    "calories": "156"
+},
+{
+    "name": "boeuf (filet)",
+    "calories": "180"
+},
+{
+    "name": "boeuf (foie)",
+    "calories": "116"
+},
+{
+    "name": "boeuf (gîte)",
+    "calories": "300"
+},
+{
+    "name": "boeuf (hampe)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (langue)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (macreuse)",
+    "calories": "242"
+},
+{
+    "name": "boeuf (noix)",
+    "calories": "184"
+},
+{
+    "name": "boeuf (onglet)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (paleron)",
+    "calories": "216"
+},
+{
+    "name": "boeuf (palette)",
+    "calories": "242"
+},
+{
+    "name": "boeuf (plates côtes)",
+    "calories": "250"
+},
+{
+    "name": "boeuf (rognon)",
+    "calories": "125"
+},
+{
+    "name": "boeuf (rond de gîte)",
+    "calories": "225"
+},
+{
+    "name": "boeuf (rosbif)",
+    "calories": "160"
+},
+{
+    "name": "boeuf (rumsteack)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (tendron)",
+    "calories": "300"
+},
+{
+    "name": "boeuf (tournedos)",
+    "calories": "200"
+},
+{
+    "name": "boeuf (tripes)",
+    "calories": "94"
+},
+{
+    "name": "caille",
+    "calories": "115"
+},
+{
+    "name": "carré de porc",
+    "calories": "330"
+},
+{
+    "name": "carré de veau",
+    "calories": "171"
+},
+{
+    "name": "cerf",
+    "calories": "116"
+},
+{
+    "name": "cervelas",
+    "calories": "320"
+},
+{
+    "name": "cervelle",
+    "calories": "125"
+},
+{
+    "name": "chair à saucisse",
+    "calories": "422"
+},
+{
+    "name": "charcuterie",
+    "calories": "450"
+},
+{
+    "name": "cheval",
+    "calories": "110"
+},
+{
+    "name": "chevreau",
+    "calories": "160"
+},
+{
+    "name": "chevreuil",
+    "calories": "120"
+},
+{
+    "name": "coeur",
+    "calories": "122"
+},
+{
+    "name": "corned-beef",
+    "calories": "275"
+},
+{
+    "name": "côte de boeuf",
+    "calories": "260"
+},
+{
+    "name": "côtelettes d'agneau",
+    "calories": "330"
+},
+{
+    "name": "côtes de mouton",
+    "calories": "300"
+},
+{
+    "name": "côtes de porc",
+    "calories": "330"
+},
+{
+    "name": "côtes de veau",
+    "calories": "168"
+},
+{
+    "name": "culotte de boeuf",
+    "calories": "289"
+},
+{
+    "name": "culotte de veau",
+    "calories": "171"
+},
+{
+    "name": "dinde",
+    "calories": "125"
+},
+{
+    "name": "echine de boeuf",
+    "calories": "257"
+},
+{
+    "name": "echine de porc",
+    "calories": "302"
+},
+{
+    "name": "escalope de veau",
+    "calories": "170"
+},
+{
+    "name": "faux-filet (boeuf)",
+    "calories": "360"
+},
+{
+    "name": "foie",
+    "calories": "133"
+},
+{
+    "name": "foie gras",
+    "calories": "450"
+},
+{
+    "name": "fromage de tête",
+    "calories": "342"
+},
+{
+    "name": "grenouille (cuisses)",
+    "calories": "72"
+},
+{
+    "name": "hamburger",
+    "calories": "560"
+},
+{
+    "name": "hot-dog (unité)",
+    "calories": "400"
+},
+{
+    "name": "jambon cru",
+    "calories": "330"
+},
+{
+    "name": "jambon cuit",
+    "calories": "290"
+},
+{
+    "name": "jambon de paris",
+    "calories": "290"
+},
+{
+    "name": "jambon fumé",
+    "calories": "380"
+},
+{
+    "name": "jambonneau",
+    "calories": "290"
+},
+{
+    "name": "jarret de veau",
+    "calories": "183"
+},
+{
+    "name": "langue",
+    "calories": "200"
+},
+{
+    "name": "lapin de garenne",
+    "calories": "133"
+},
+{
+    "name": "lapin domestique",
+    "calories": "160"
+},
+{
+    "name": "lard fumé",
+    "calories": "670"
+},
+{
+    "name": "lard",
+    "calories": "575"
+},
+{
+    "name": "lièvre",
+    "calories": "100"
+},
+{
+    "name": "macreuse (boeuf)",
+    "calories": "242"
+},
+{
+    "name": "marcassin",
+    "calories": "104"
+},
+{
+    "name": "merguez",
+    "calories": "520"
+},
+{
+    "name": "moelle",
+    "calories": "605"
+},
+{
+    "name": "mortadelle",
+    "calories": "305"
+},
+{
+    "name": "mousse de foie",
+    "calories": "410"
+},
+{
+    "name": "mouton",
+    "calories": "265"
+},
+{
+    "name": "mouton (cervelle)",
+    "calories": "120"
+},
+{
+    "name": "mouton (coeur)",
+    "calories": "157"
+},
+{
+    "name": "mouton (côtes)",
+    "calories": "300"
+},
+{
+    "name": "mouton (épaule)",
+    "calories": "289"
+},
+{
+    "name": "mouton (filet)",
+    "calories": "225"
+},
+{
+    "name": "mouton (foie)",
+    "calories": "132"
+},
+{
+    "name": "mouton (gigot)",
+    "calories": "250"
+},
+{
+    "name": "mouton (langue)",
+    "calories": "264"
+},
+{
+    "name": "mouton (rognon)",
+    "calories": "105"
+},
+{
+    "name": "mouton (selle)",
+    "calories": "250"
+},
+{
+    "name": "museau de porc",
+    "calories": "342"
+},
+{
+    "name": "noix de boeuf",
+    "calories": "184"
+},
+{
+    "name": "noix de porc",
+    "calories": "289"
+},
+{
+    "name": "noix de veau",
+    "calories": "160"
+},
+{
+    "name": "pâté de campagne",
+    "calories": "455"
+},
+{
+    "name": "pâté de foie",
+    "calories": "465"
+},
+{
+    "name": "pâté de tête",
+    "calories": "342"
+},
+{
+    "name": "petit salé",
+    "calories": "330"
+},
+{
+    "name": "pied de veau",
+    "calories": "342"
+},
+{
+    "name": "poitrine de porc",
+    "calories": "300"
+},
+{
+    "name": "porc",
+    "calories": "300"
+},
+{
+    "name": "porc (carré)",
+    "calories": "330"
+},
+{
+    "name": "porc (cervelle)",
+    "calories": "129"
+},
+{
+    "name": "porc (coeur)",
+    "calories": "115"
+},
+{
+    "name": "porc (côtes)",
+    "calories": "330"
+},
+{
+    "name": "porc (échine)",
+    "calories": "302"
+},
+{
+    "name": "porc (filet)",
+    "calories": "290"
+},
+{
+    "name": "porc (foie)",
+    "calories": "135"
+},
+{
+    "name": "porc (jambon fumé)",
+    "calories": "385"
+},
+{
+    "name": "porc (jambon)",
+    "calories": "300"
+},
+{
+    "name": "porc (langue)",
+    "calories": "207"
+},
+{
+    "name": "porc (lard fumé)",
+    "calories": "670"
+},
+{
+    "name": "porc (lard)",
+    "calories": "575"
+},
+{
+    "name": "porc (noix)",
+    "calories": "289"
+},
+{
+    "name": "porc (palette)",
+    "calories": "300"
+},
+{
+    "name": "porc (pied)",
+    "calories": "342"
+},
+{
+    "name": "porc (poitrine)",
+    "calories": "300"
+},
+{
+    "name": "porc (rognons)",
+    "calories": "102"
+},
+{
+    "name": "porc (rôti)",
+    "calories": "300"
+},
+{
+    "name": "porc (travers)",
+    "calories": "305"
+},
+{
+    "name": "quasi de veau",
+    "calories": "171"
+},
+{
+    "name": "rillettes",
+    "calories": "250"
+},
+{
+    "name": "ris de veau",
+    "calories": "125"
+},
+{
+    "name": "rognons",
+    "calories": "120"
+},
+{
+    "name": "rond de gîte",
+    "calories": "225"
+},
+{
+    "name": "rosbif",
+    "calories": "160"
+},
+{
+    "name": "rôti de porc",
+    "calories": "300"
+},
+{
+    "name": "rôti de veau",
+    "calories": "168"
+},
+{
+    "name": "rumsteack (boeuf)",
+    "calories": "200"
+},
+{
+    "name": "salami",
+    "calories": "410"
+},
+{
+    "name": "sanglier",
+    "calories": "104"
+},
+{
+    "name": "saucisses",
+    "calories": "330"
+},
+{
+    "name": "saucisson",
+    "calories": "440"
+},
+{
+    "name": "steack de boeuf",
+    "calories": "200"
+},
+{
+    "name": "steack de cheval",
+    "calories": "110"
+},
+{
+    "name": "tartare (steack)",
+    "calories": "200"
+},
+{
+    "name": "tendron de boeuf",
+    "calories": "300"
+},
+{
+    "name": "tête de veau",
+    "calories": "210"
+},
+{
+    "name": "tournedos (boeuf)",
+    "calories": "200"
+},
+{
+    "name": "travers de porc",
+    "calories": "305"
+},
+{
+    "name": "tripes",
+    "calories": "94"
+},
+{
+    "name": "veau",
+    "calories": "170"
+},
+{
+    "name": "veau (aloyau)",
+    "calories": "175"
+},
+{
+    "name": "veau (araignée)",
+    "calories": "171"
+},
+{
+    "name": "veau (carré)",
+    "calories": "171"
+},
+{
+    "name": "veau (cervelle)",
+    "calories": "120"
+},
+{
+    "name": "veau (coeur)",
+    "calories": "127"
+},
+{
+    "name": "veau (côtes)",
+    "calories": "168"
+},
+{
+    "name": "veau (épaule)",
+    "calories": "168"
+},
+{
+    "name": "veau (foie)",
+    "calories": "137"
+},
+{
+    "name": "veau (hampe)",
+    "calories": "200"
+},
+{
+    "name": "veau (langue)",
+    "calories": "123"
+},
+{
+    "name": "veau (longe)",
+    "calories": "171"
+},
+{
+    "name": "veau (noix)",
+    "calories": "160"
+},
+{
+    "name": "veau (onglet)",
+    "calories": "171"
+},
+{
+    "name": "veau (pieds)",
+    "calories": "342"
+},
+{
+    "name": "veau (quasi)",
+    "calories": "171"
+},
+{
+    "name": "veau (ris)",
+    "calories": "116"
+},
+{
+    "name": "veau (rognon)",
+    "calories": "123"
+},
+{
+    "name": "veau (rôti)",
+    "calories": "168"
+},
+{
+    "name": "veau (tête)",
+    "calories": "210"
+},
+{
+    "name": "veau (jarret)",
+    "calories": "183"
+},
+{
+    "name": "bécasse",
+    "calories": "115"
+},
+{
+    "name": "canard",
+    "calories": "250"
+},
+{
+    "name": "canard sauvage",
+    "calories": "126"
+},
+{
+    "name": "dinde",
+    "calories": "260"
+},
+{
+    "name": "dindonneau",
+    "calories": "260"
+},
+{
+    "name": "faisan",
+    "calories": "106"
+},
+{
+    "name": "grive",
+    "calories": "120"
+},
+{
+    "name": "oie",
+    "calories": "350"
+},
+{
+    "name": "perdreau",
+    "calories": "115"
+},
+{
+    "name": "perdrix",
+    "calories": "115"
+},
+{
+    "name": "pigeon",
+    "calories": "108"
+},
+{
+    "name": "pintade",
+    "calories": "108"
+},
+{
+    "name": "poule",
+    "calories": "300"
+},
+{
+    "name": "poulet",
+    "calories": "150"
+},
+{
+    "name": "artichaut",
+    "calories": "40"
+},
+{
+    "name": "asperges",
+    "calories": "26"
+},
+{
+    "name": "aubergine",
+    "calories": "29"
+},
+{
+    "name": "avocat",
+    "calories": "200"
+},
+{
+    "name": "bette ou blette",
+    "calories": "33"
+},
+{
+    "name": "betterave rouge",
+    "calories": "40"
+},
+{
+    "name": "bouillon de légumes (1 louche)",
+    "calories": "30"
+},
+{
+    "name": "brocolis",
+    "calories": "34"
+},
+{
+    "name": "carde ou cardon",
+    "calories": "33"
+},
+{
+    "name": "carotte",
+    "calories": "38"
+},
+{
+    "name": "carotte (jus)",
+    "calories": "24"
+},
+{
+    "name": "céleri (feuille)",
+    "calories": "20"
+},
+{
+    "name": "céleri-rave",
+    "calories": "44"
+},
+{
+    "name": "cêpes",
+    "calories": "28"
+},
+{
+    "name": "champignons",
+    "calories": "28"
+},
+{
+    "name": "chanterelles",
+    "calories": "28"
+},
+{
+    "name": "chicorée frisée",
+    "calories": "20"
+},
+{
+    "name": "chou",
+    "calories": "28"
+},
+{
+    "name": "chou brocolis",
+    "calories": "34"
+},
+{
+    "name": "chou chinois",
+    "calories": "12"
+},
+{
+    "name": "chou de bruxelles",
+    "calories": "54"
+},
+{
+    "name": "chou-fleur",
+    "calories": "30"
+},
+{
+    "name": "chou-navet",
+    "calories": "34"
+},
+{
+    "name": "chou-rave",
+    "calories": "40"
+},
+{
+    "name": "chou-rouge",
+    "calories": "36"
+},
+{
+    "name": "choucroute",
+    "calories": "27"
+},
+{
+    "name": "citron",
+    "calories": "40"
+},
+{
+    "name": "citron (jus)",
+    "calories": "32"
+},
+{
+    "name": "citrouille",
+    "calories": "30"
+},
+{
+    "name": "coeur de palmier",
+    "calories": "56"
+},
+{
+    "name": "concombre",
+    "calories": "13"
+},
+{
+    "name": "condiments",
+    "calories": "0"
+},
+{
+    "name": "cornichons",
+    "calories": "13"
+},
+{
+    "name": "courge",
+    "calories": "30"
+},
+{
+    "name": "courgette",
+    "calories": "30"
+},
+{
+    "name": "crème de légumes (1 louche)",
+    "calories": "200"
+},
+{
+    "name": "cresson",
+    "calories": "20"
+},
+{
+    "name": "cresson (soupe) (1 louche)",
+    "calories": "120"
+},
+{
+    "name": "echalottes",
+    "calories": "75"
+},
+{
+    "name": "endive",
+    "calories": "20"
+},
+{
+    "name": "epinards",
+    "calories": "25"
+},
+{
+    "name": "fenouil",
+    "calories": "20"
+},
+{
+    "name": "fève",
+    "calories": "117"
+},
+{
+    "name": "fève sèche",
+    "calories": "345"
+},
+{
+    "name": "flageolets",
+    "calories": "120"
+},
+{
+    "name": "gingembre",
+    "calories": "61"
+},
+{
+    "name": "girolles",
+    "calories": "28"
+},
+{
+    "name": "haricot de lima",
+    "calories": "330"
+},
+{
+    "name": "haricot mange-tout",
+    "calories": "40"
+},
+{
+    "name": "haricot mungo",
+    "calories": "344"
+},
+{
+    "name": "haricot sec (cru)",
+    "calories": "330"
+},
+{
+    "name": "haricot sec (cuit)",
+    "calories": "120"
+},
+{
+    "name": "haricot vert",
+    "calories": "40"
+},
+{
+    "name": "laitue",
+    "calories": "18"
+},
+{
+    "name": "légumes secs",
+    "calories": "330"
+},
+{
+    "name": "légumes verts",
+    "calories": "47"
+},
+{
+    "name": "lentilles",
+    "calories": "338"
+},
+{
+    "name": "lentilles (soupe) (1 louche)",
+    "calories": "360"
+},
+{
+    "name": "macédoine de légumes",
+    "calories": "72"
+},
+{
+    "name": "mâche",
+    "calories": "36"
+},
+{
+    "name": "maïs (conserve)",
+    "calories": "140"
+},
+{
+    "name": "maïs (grain)",
+    "calories": "356"
+},
+{
+    "name": "manioc (racine)",
+    "calories": "140"
+},
+{
+    "name": "morilles",
+    "calories": "28"
+},
+{
+    "name": "navet",
+    "calories": "35"
+},
+{
+    "name": "oignons",
+    "calories": "46"
+},
+{
+    "name": "oignons (soupe) (1 louche)",
+    "calories": "90"
+},
+{
+    "name": "palmier (coeur)",
+    "calories": "56"
+},
+{
+    "name": "panais",
+    "calories": "74"
+},
+{
+    "name": "patate douce",
+    "calories": "110"
+},
+{
+    "name": "petits pois",
+    "calories": "70"
+},
+{
+    "name": "pissenlit",
+    "calories": "48"
+},
+{
+    "name": "poireau",
+    "calories": "42"
+},
+{
+    "name": "pois (petits pois)",
+    "calories": "70"
+},
+{
+    "name": "pois cassés",
+    "calories": "356"
+},
+{
+    "name": "pois cassés (soupe) (1 louche)",
+    "calories": "380"
+},
+{
+    "name": "pois chiche",
+    "calories": "360"
+},
+{
+    "name": "pois secs",
+    "calories": "330"
+},
+{
+    "name": "poivron",
+    "calories": "22"
+},
+{
+    "name": "pomme de terre",
+    "calories": "90"
+},
+{
+    "name": "pomme de terre (chips)",
+    "calories": "570"
+},
+{
+    "name": "pomme de terre (flocons)",
+    "calories": "357"
+},
+{
+    "name": "pomme de terre (frites)",
+    "calories": "420"
+},
+{
+    "name": "pomme de terre (purée)",
+    "calories": "95"
+},
+{
+    "name": "potiron",
+    "calories": "30"
+},
+{
+    "name": "pourpier (feuille)",
+    "calories": "15"
+},
+{
+    "name": "pousses de bambou",
+    "calories": "35"
+},
+{
+    "name": "radis",
+    "calories": "20"
+},
+{
+    "name": "romaine",
+    "calories": "18"
+},
+{
+    "name": "rutabaga",
+    "calories": "34"
+},
+{
+    "name": "salade verte",
+    "calories": "18"
+},
+{
+    "name": "salsifis",
+    "calories": "77"
+},
+{
+    "name": "scarole",
+    "calories": "25"
+},
+{
+    "name": "tétragone",
+    "calories": "25"
+},
+{
+    "name": "tomate",
+    "calories": "20"
+},
+{
+    "name": "tomate (concentré)",
+    "calories": "90"
+},
+{
+    "name": "tomate (jus)",
+    "calories": "16"
+},
+{
+    "name": "tomate (sauce)",
+    "calories": "120"
+},
+{
+    "name": "topinambour",
+    "calories": "78"
+},
+{
+    "name": "truffe fraîche",
+    "calories": "92"
+},
+{
+    "name": "abricot frais",
+    "calories": "45"
+},
+{
+    "name": "abricot jus",
+    "calories": "60"
+},
+{
+    "name": "abricots secs",
+    "calories": "272"
+},
+{
+    "name": "airelle",
+    "calories": "25"
+},
+{
+    "name": "amande (unité)",
+    "calories": "10"
+},
+{
+    "name": "amandes",
+    "calories": "634"
+},
+{
+    "name": "ananas (conserve)",
+    "calories": "96"
+},
+{
+    "name": "ananas frais",
+    "calories": "51"
+},
+{
+    "name": "ananas jus",
+    "calories": "54"
+},
+{
+    "name": "banane",
+    "calories": "90"
+},
+{
+    "name": "banane plantain",
+    "calories": "126"
+},
+{
+    "name": "banane sèche",
+    "calories": "290"
+},
+{
+    "name": "brugnons",
+    "calories": "64"
+},
+{
+    "name": "cassis",
+    "calories": "60"
+},
+{
+    "name": "cerises",
+    "calories": "77"
+},
+{
+    "name": "châtaignes",
+    "calories": "211"
+},
+{
+    "name": "clémentines",
+    "calories": "40"
+},
+{
+    "name": "coco (lait)",
+    "calories": "20"
+},
+{
+    "name": "coco (noix fraîche)",
+    "calories": "371"
+},
+{
+    "name": "coco (noix sèche)",
+    "calories": "594"
+},
+{
+    "name": "coing",
+    "calories": "32"
+},
+{
+    "name": "compotes",
+    "calories": "100"
+},
+{
+    "name": "dattes",
+    "calories": "306"
+},
+{
+    "name": "dattes \"deglet nour\"",
+    "calories": "311"
+},
+{
+    "name": "figue",
+    "calories": "80"
+},
+{
+    "name": "figue sèche",
+    "calories": "270"
+},
+{
+    "name": "fraises",
+    "calories": "36"
+},
+{
+    "name": "framboises",
+    "calories": "40"
+},
+{
+    "name": "framboise (jus)",
+    "calories": "44"
+},
+{
+    "name": "fruit de la passion",
+    "calories": "100"
+},
+{
+    "name": "fruits (compote)",
+    "calories": "100"
+},
+{
+    "name": "fruits (jus 100%)",
+    "calories": "48"
+},
+{
+    "name": "fruits (nectars)",
+    "calories": "70"
+},
+{
+    "name": "fruits au sirop",
+    "calories": "100"
+},
+{
+    "name": "fruits confits",
+    "calories": "380"
+},
+{
+    "name": "fruits secs",
+    "calories": "300"
+},
+{
+    "name": "gelée de fruits",
+    "calories": "280"
+},
+{
+    "name": "goyave",
+    "calories": "60"
+},
+{
+    "name": "grenade",
+    "calories": "64"
+},
+{
+    "name": "groseilles",
+    "calories": "30"
+},
+{
+    "name": "igname",
+    "calories": "100"
+},
+{
+    "name": "jujube",
+    "calories": "135"
+},
+{
+    "name": "jus de fruit 100%",
+    "calories": "48"
+},
+{
+    "name": "kaki",
+    "calories": "63"
+},
+{
+    "name": "kiwi",
+    "calories": "53"
+},
+{
+    "name": "limette",
+    "calories": "51"
+},
+{
+    "name": "litchis",
+    "calories": "68"
+},
+{
+    "name": "macédoine de fruits",
+    "calories": "100"
+},
+{
+    "name": "mandarine",
+    "calories": "40"
+},
+{
+    "name": "mangue",
+    "calories": "62"
+},
+{
+    "name": "marrons",
+    "calories": "211"
+},
+{
+    "name": "marrons (crème)",
+    "calories": "298"
+},
+{
+    "name": "marrons (purée)",
+    "calories": "211"
+},
+{
+    "name": "marrons glacés",
+    "calories": "305"
+},
+{
+    "name": "melon",
+    "calories": "31"
+},
+{
+    "name": "mirabelles",
+    "calories": "58"
+},
+{
+    "name": "mousserons",
+    "calories": "28"
+},
+{
+    "name": "mûres",
+    "calories": "57"
+},
+{
+    "name": "myrtilles",
+    "calories": "16"
+},
+{
+    "name": "nectars de fruits",
+    "calories": "70"
+},
+{
+    "name": "nèfles",
+    "calories": "97"
+},
+{
+    "name": "noisette (unité)",
+    "calories": "10"
+},
+{
+    "name": "noisettes",
+    "calories": "656"
+},
+{
+    "name": "noix",
+    "calories": "660"
+},
+{
+    "name": "noix (unité)",
+    "calories": "20"
+},
+{
+    "name": "noix de cajou",
+    "calories": "612"
+},
+{
+    "name": "noix de coco",
+    "calories": "371"
+},
+{
+    "name": "orange",
+    "calories": "40"
+},
+{
+    "name": "orange jus",
+    "calories": "42"
+},
+{
+    "name": "pamplemousse",
+    "calories": "40"
+},
+{
+    "name": "pamplemousse jus",
+    "calories": "42"
+},
+{
+    "name": "papaye",
+    "calories": "44"
+},
+{
+    "name": "pastèque",
+    "calories": "30"
+},
+{
+    "name": "pêche",
+    "calories": "47"
+},
+{
+    "name": "pêche (jus)",
+    "calories": "52"
+},
+{
+    "name": "pêches au sirop",
+    "calories": "70"
+},
+{
+    "name": "poire",
+    "calories": "61"
+},
+{
+    "name": "poire (jus)",
+    "calories": "60"
+},
+{
+    "name": "pomme",
+    "calories": "52"
+},
+{
+    "name": "pomme (jus)",
+    "calories": "47"
+},
+{
+    "name": "prune",
+    "calories": "56"
+},
+{
+    "name": "prune (jus)",
+    "calories": "68"
+},
+{
+    "name": "pruneaux",
+    "calories": "290"
+},
+{
+    "name": "quetsches",
+    "calories": "56"
+},
+{
+    "name": "raisin",
+    "calories": "81"
+},
+{
+    "name": "raisin jus",
+    "calories": "76"
+},
+{
+    "name": "raisins secs",
+    "calories": "324"
+},
+{
+    "name": "rhubarbe",
+    "calories": "16"
+},
+{
+    "name": "babybel",
+    "calories": "335"
+},
+{
+    "name": "beaufort",
+    "calories": "396"
+},
+{
+    "name": "beurre",
+    "calories": "760"
+},
+{
+    "name": "beurre (1 noix)",
+    "calories": "70"
+},
+{
+    "name": "beurre allégé",
+    "calories": "410"
+},
+{
+    "name": "beurre salé",
+    "calories": "760"
+},
+{
+    "name": "bleus",
+    "calories": "410"
+},
+{
+    "name": "bonbel",
+    "calories": "353"
+},
+{
+    "name": "boursault",
+    "calories": "354"
+},
+{
+    "name": "boursin",
+    "calories": "414"
+},
+{
+    "name": "brie",
+    "calories": "263"
+},
+{
+    "name": "camembert",
+    "calories": "312"
+},
+{
+    "name": "cantal",
+    "calories": "386"
+},
+{
+    "name": "carré de l'est",
+    "calories": "362"
+},
+{
+    "name": "chavignols",
+    "calories": "330"
+},
+{
+    "name": "cheddar",
+    "calories": "382"
+},
+{
+    "name": "chèvre",
+    "calories": "330"
+},
+{
+    "name": "comté",
+    "calories": "396"
+},
+{
+    "name": "coulommiers",
+    "calories": "278"
+},
+{
+    "name": "crème de gruyère",
+    "calories": "280"
+},
+{
+    "name": "crème fraîche",
+    "calories": "300"
+},
+{
+    "name": "crème fraîche (1 c. à soupe)",
+    "calories": "60"
+},
+{
+    "name": "crottins (fromage)",
+    "calories": "80"
+},
+{
+    "name": "demi-sel",
+    "calories": "174"
+},
+{
+    "name": "edam",
+    "calories": "353"
+},
+{
+    "name": "emmenthal",
+    "calories": "415"
+},
+{
+    "name": "fromage blanc à 0% aux fruits",
+    "calories": "80"
+},
+{
+    "name": "fromage blanc à 0% mg",
+    "calories": "44"
+},
+{
+    "name": "fromage blanc à 20% mg",
+    "calories": "80"
+},
+{
+    "name": "fromage blanc à 40% mg",
+    "calories": "116"
+},
+{
+    "name": "gorgonzola",
+    "calories": "405"
+},
+{
+    "name": "gouda",
+    "calories": "353"
+},
+{
+    "name": "gruyère",
+    "calories": "392"
+},
+{
+    "name": "hollande",
+    "calories": "353"
+},
+{
+    "name": "kéfir",
+    "calories": "44"
+},
+{
+    "name": "lait 1/2 écrémé",
+    "calories": "49"
+},
+{
+    "name": "lait concentré",
+    "calories": "130"
+},
+{
+    "name": "lait concentré sucré",
+    "calories": "330"
+},
+{
+    "name": "lait écrémé",
+    "calories": "34"
+},
+{
+    "name": "lait écrémé (poudre)",
+    "calories": "375"
+},
+{
+    "name": "lait entier",
+    "calories": "65"
+},
+{
+    "name": "lait entier (poudre)",
+    "calories": "482"
+},
+{
+    "name": "margarine (1 noix)",
+    "calories": "75"
+},
+{
+    "name": "margarine",
+    "calories": "755"
+},
+{
+    "name": "maroilles",
+    "calories": "420"
+},
+{
+    "name": "mimolette",
+    "calories": "344"
+},
+{
+    "name": "morbier",
+    "calories": "300"
+},
+{
+    "name": "mozzarelle",
+    "calories": "332"
+},
+{
+    "name": "munster",
+    "calories": "320"
+},
+{
+    "name": "parmesan",
+    "calories": "393"
+},
+{
+    "name": "pavé d'auge",
+    "calories": "300"
+},
+{
+    "name": "petit-suisse (40 %)",
+    "calories": "146"
+},
+{
+    "name": "petit-suisse (60 %)",
+    "calories": "236"
+},
+{
+    "name": "pont-lévêque",
+    "calories": "300"
+},
+{
+    "name": "port-salut",
+    "calories": "362"
+},
+{
+    "name": "pyrénées",
+    "calories": "365"
+},
+{
+    "name": "reblochon",
+    "calories": "354"
+},
+{
+    "name": "roquefort",
+    "calories": "405"
+},
+{
+    "name": "rouy",
+    "calories": "362"
+},
+{
+    "name": "saint-florentin",
+    "calories": "312"
+},
+{
+    "name": "saint-marcellin",
+    "calories": "228"
+},
+{
+    "name": "saint-nectaire",
+    "calories": "354"
+},
+{
+    "name": "saint-paulin",
+    "calories": "365"
+},
+{
+    "name": "tartare (portion 20 g)",
+    "calories": "69"
+},
+{
+    "name": "tomme",
+    "calories": "354"
+},
+{
+    "name": "yaourt à 0% (unité)",
+    "calories": "44"
+},
+{
+    "name": "yaourt à 0% sucré",
+    "calories": "80"
+},
+{
+    "name": "yaourt aromatisé",
+    "calories": "120"
+},
+{
+    "name": "yaourt au chocolat",
+    "calories": "140"
+},
+{
+    "name": "yaourt aux fruits",
+    "calories": "100"
+},
+{
+    "name": "yaourt nature (unité)",
+    "calories": "55"
+},
+{
+    "name": "arachide (huile)",
+    "calories": "900"
+},
+{
+    "name": "beurre",
+    "calories": "760"
+},
+{
+    "name": "beurre (1 noix)",
+    "calories": "70"
+},
+{
+    "name": "beurre allégé",
+    "calories": "410"
+},
+{
+    "name": "beurre salé",
+    "calories": "760"
+},
+{
+    "name": "colza (huile)",
+    "calories": "900"
+},
+{
+    "name": "graisse d'oie (1 cuil. soupe)",
+    "calories": "180"
+},
+{
+    "name": "huile (1 c. à soupe)",
+    "calories": "100"
+},
+{
+    "name": "huile de paraffine",
+    "calories": "0"
+},
+{
+    "name": "huiles",
+    "calories": "900"
+},
+{
+    "name": "margarine",
+    "calories": "755"
+},
+{
+    "name": "margarine (1 noisette)",
+    "calories": "75"
+},
+{
+    "name": "olives (huile)",
+    "calories": "900"
+},
+{
+    "name": "saindoux",
+    "calories": "850"
+},
+{
+    "name": "soja (huile)",
+    "calories": "900"
+},
+{
+    "name": "tournesol (huile)",
+    "calories": "900"
+},
+{
+    "name": "végétaline",
+    "calories": "900"
+},
+{
+    "name": "baguette (unité)",
+    "calories": "510"
+},
+{
+    "name": "biscotte (unité)",
+    "calories": "39"
+},
+{
+    "name": "biscottes",
+    "calories": "390"
+},
+{
+    "name": "biscottes au gluten",
+    "calories": "406"
+},
+{
+    "name": "biscottes sans sel",
+    "calories": "390"
+},
+{
+    "name": "biscuits",
+    "calories": "400"
+},
+{
+    "name": "biscuits pomme regain",
+    "calories": "470"
+},
+{
+    "name": "boudoirs",
+    "calories": "388"
+},
+{
+    "name": "bretzel (unité)",
+    "calories": "80"
+},
+{
+    "name": "brioche",
+    "calories": "386"
+},
+{
+    "name": "chapelure",
+    "calories": "382"
+},
+{
+    "name": "chausson (unité)",
+    "calories": "300"
+},
+{
+    "name": "clafoutis (1 part)",
+    "calories": "270"
+},
+{
+    "name": "congolais (unité)",
+    "calories": "130"
+},
+{
+    "name": "crakers",
+    "calories": "360"
+},
+{
+    "name": "craquelin (unité)",
+    "calories": "100"
+},
+{
+    "name": "crêpe nature (unité)",
+    "calories": "40"
+},
+{
+    "name": "crêpes orientales",
+    "calories": "345"
+},
+{
+    "name": "croissant (unité)",
+    "calories": "180"
+},
+{
+    "name": "croquants (unité)",
+    "calories": "218"
+},
+{
+    "name": "ficelle (unité)",
+    "calories": "382"
+},
+{
+    "name": "fondants",
+    "calories": "380"
+},
+{
+    "name": "friand (unité)",
+    "calories": "370"
+},
+{
+    "name": "gâteaux",
+    "calories": "465"
+},
+{
+    "name": "gâteaux salés",
+    "calories": "510"
+},
+{
+    "name": "gâteaux secs",
+    "calories": "420"
+},
+{
+    "name": "gaufres",
+    "calories": "400"
+},
+{
+    "name": "gaufrettes",
+    "calories": "368"
+},
+{
+    "name": "gaufrettes fourrées",
+    "calories": "523"
+},
+{
+    "name": "gressins",
+    "calories": "350"
+},
+{
+    "name": "macaron (unité)",
+    "calories": "120"
+},
+{
+    "name": "macarons",
+    "calories": "452"
+},
+{
+    "name": "madeleine (unité)",
+    "calories": "95"
+},
+{
+    "name": "madeleines",
+    "calories": "490"
+},
+{
+    "name": "massepain",
+    "calories": "550"
+},
+{
+    "name": "mille-feuille (unité)",
+    "calories": "320"
+},
+{
+    "name": "muffins (unité)",
+    "calories": "150"
+},
+{
+    "name": "pain au chocolat (unité)",
+    "calories": "280"
+},
+{
+    "name": "pain au lait (unité)",
+    "calories": "120"
+},
+{
+    "name": "pain au raisin (unité)",
+    "calories": "270"
+},
+{
+    "name": "pain azyme",
+    "calories": "255"
+},
+{
+    "name": "pain bis",
+    "calories": "255"
+},
+{
+    "name": "pain blanc",
+    "calories": "255"
+},
+{
+    "name": "pain brioché",
+    "calories": "267"
+},
+{
+    "name": "pain complet",
+    "calories": "230"
+},
+{
+    "name": "pain d'épice",
+    "calories": "350"
+},
+{
+    "name": "pain de mie",
+    "calories": "284"
+},
+{
+    "name": "pain de seigle",
+    "calories": "241"
+},
+{
+    "name": "pain de son",
+    "calories": "257"
+},
+{
+    "name": "pain grillé",
+    "calories": "416"
+},
+{
+    "name": "pain viennois",
+    "calories": "258"
+},
+{
+    "name": "pâtes cuites",
+    "calories": "90"
+},
+{
+    "name": "pâtes fraiches cuites",
+    "calories": "84"
+},
+{
+    "name": "petit-beurre (unité)",
+    "calories": "35"
+},
+{
+    "name": "petit-beurre",
+    "calories": "420"
+},
+{
+    "name": "pudding (1 part)",
+    "calories": "360"
+},
+{
+    "name": "quatre-quarts",
+    "calories": "400"
+},
+{
+    "name": "quiche (unité)",
+    "calories": "340"
+},
+{
+    "name": "riz blanc cuit",
+    "calories": "90"
+},
+{
+    "name": "riz basmati cuit",
+    "calories": "90"
+},
+{
+    "name": "riz complet cuit",
+    "calories": "98"
+},
+{
+    "name": "sablés",
+    "calories": "460"
+},
+{
+    "name": "sandwich (gruyère)",
+    "calories": "480"
+},
+{
+    "name": "sandwich (jambon)",
+    "calories": "430"
+},
+{
+    "name": "sandwich (rillettes)",
+    "calories": "580"
+},
+{
+    "name": "sandwich (saucisson)",
+    "calories": "530"
+},
+{
+    "name": "sandwich (thon)",
+    "calories": "450"
+},
+{
+    "name": "sandwich (viande)",
+    "calories": "450"
+},
+{
+    "name": "tarte (1 part)",
+    "calories": "360"
+},
+{
+    "name": "tarte (pommes)",
+    "calories": "300"
+},
+{
+    "name": "triscottes",
+    "calories": "390"
+}
+]

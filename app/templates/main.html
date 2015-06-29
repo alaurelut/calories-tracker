@@ -1,0 +1,29 @@
+<h1>Entrez ce que vous avez mangé : </h1>
+
+<form (submit)="addFood($event, aliment, poids)">
+	<input type="text" placeholder="Nouvel aliment" #aliment>
+	<input type="text" placeholder="Poids ( en grammes )" #poids>
+	<button (click)='addFood($event, aliment, poids)'>Submit</button>
+</form>
+
+<h1>Résultats caloriques : {{calories}} kcal</h1>
+<li *ng-for="#food of foodList">{{food.name}} : {{food.poids}}grammes = {{food.calories}}kcal</li>
+
+
+<h1>Calculer votre besoin en apport calorique journalier</h1>
+
+<form (submit)="calculMetabolisme($event, sexe, taille, masse, age)">
+	<input type="text" placeholder="taille (en cm)" #taille>
+	<input type="text" placeholder="masse (en kg)" #masse>
+	<input type="text" placeholder="age (en année)" #age>
+ 	
+ 	<label for="homme">Homme:</label>
+    <input id="homme" type="radio" name="sexe" #sexe value="homme" />
+
+    <label for="femme">Femme:</label>
+    <input id="femme" type="radio" name="sexe" #sexe value="femme" />
+
+	<button (click)='calculMetabolisme($event, sexe, taille, masse, age)'>Submit</button>
+</form>
+
+<h1>Besoin journalier : {{besoin}} kcal</h1>
