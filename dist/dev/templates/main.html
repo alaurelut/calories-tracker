@@ -31,9 +31,8 @@
 
 
 
-
 	<h1>Besoin journalier : {{besoin}} kcal</h1>
 
 	<h1 *ng-if="(besoin - calories) > 0">Vous avez encore besoin de {{besoin - calories}} kcal aujourd'hui</h1>
-	<h1 *ng-if="(besoin - calories) < 0">Vous avez mangé un excédant de {{besoin - calories}} kcal aujourd'hui</h1>
+	<h1 *ng-if="(besoin - calories) < 0">Vous avez mangé un excédant de {{ (besoin - calories) | positif}} kcal aujourd'hui</h1>
 </div>
