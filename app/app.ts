@@ -35,9 +35,7 @@ class App {
       
       for (var i = 0; i < this.foods.length; i++) {
         if( this.foods[i].name.indexOf(aliment.value) != -1){
-          this.calculateKcal(this.foods[i].calories, poids.value);
-          this.foodList.push({"name":this.foods[i].name, "calories":this.foods[i].calories, "poids":poids.value });
-
+          this.calculateKcal(this.foods[i], poids.value);
           break;
         }
       };
@@ -47,8 +45,10 @@ class App {
 
     }
 
-    calculateKcal(foodCalories, poids){
-      var calories = parseInt(foodCalories * (poids/100) );
+    calculateKcal(food, poids){
+      var calories = parseInt(food.calories * (poids/100) );
+      this.foodList.push({"name":food.name, "calories":calories, "poids":poids.value });
+
       this.calories += calories;
     }
 
