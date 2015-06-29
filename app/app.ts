@@ -1,12 +1,13 @@
 /// <reference path="../typings/tsd.d.ts" />
 import {Component, View, bootstrap, NgFor, NgIf, defaultPipes, PipeRegistry, bind} from 'angular2/angular2';
 import {FetchService} from 'services/fetchService';
+import {FoodService} from 'services/foodService';
 import {PositifPipe} from 'pipes/positifPipe';
 
 
 @Component({
   selector: 'app',
-  appInjector: [FetchService]
+  appInjector: [FetchService, FoodService]
 })
 @View({
   templateUrl: "templates/main.html",
@@ -15,14 +16,16 @@ import {PositifPipe} from 'pipes/positifPipe';
 class App {
   foods: Array<Object>;
   foodList: Array<Object>;
-  calories: Number;
-  besoin: Number;
+  caloriesCount: Number;
+  caloriesNeed: Number;
+  foodService : FoodService;
 
-  constructor(fetchService: FetchService) {
+  constructor(fetchService: FetchService, foodService : FoodService) {
 
-    this.foodList = [];
-    this.calories = 0;
-    this.besoin = 0;
+    this.foodService = foodService;
+    this.foodList = this.foodService.getFood();
+    this.caloriesCount = this.foodService.getCaloriesCount();
+    this.caloriesNeed = this.foodService.getCaloriesNeed();
 
     fetchService.loadFoods().then(response => {
       this.foods = response;
@@ -33,49 +36,41 @@ class App {
   }
 
   addFood(event, aliment, poids) {
-      event.preventDefault();
-      
+    event.preventDefault();
+
       for (var i = 0; i < this.foods.length; i++) {
         if( this.foods[i].name.indexOf(aliment.value) != -1){
-          this.calculateKcal(this.foods[i], poids.value);
+          this.foodService.addFood(this.foods[i].name, this.foods[i].calories, poids.value);
           break;
         }
       };
 
+      this.caloriesCount = this.foodService.getCaloriesCount();
+    
       aliment.value = "";
       poids.value = "";
+  }
 
+
+  deleteFood(event, index, food) {
+    event.preventDefault();
+    this.foodService.deleteFood(index, food.calories);
+    this.caloriesCount = this.foodService.getCaloriesCount();
+  }
+
+  getCaloriesNeed(event, taille, masse, age){
+    event.preventDefault();
+
+    if (document.getElementById('homme').checked) {
+      var sexe = "homme";
+    }
+    else
+    {
+      var sexe = "femme";
     }
 
-  deleteFood(event, i, food) {
-      event.preventDefault();
-
-      var calories = food.calories;
-      this.calories -= calories;
-      this.foodList.splice(i,1);     
-
-    }
-
-    calculateKcal(food, poids){
-      var calories = parseInt(food.calories * (poids/100) );
-      this.foodList.push({"name":food.name, "calories":calories, "poids":poids.value });
-
-      this.calories += calories;
-    }
-
-    calculMetabolisme(event, taille, masse, age){
-
-      event.preventDefault();
-
-      if (document.getElementById('homme').checked) {
-        this.besoin = parseInt( 66.5 + (13.8 * masse.value) + (5 * taille.value) - (6.8 * age.value) );
-      }
-      else
-      {
-        this.besoin = parseInt( 655.1 + (9.6 * masse.value) + (1.9 * taille.value) - (4.7 * age.value) );
-      }
-
-    }
+    this.caloriesNeed = this.foodService.getCaloriesNeed(masse.value, taille.value, age.value, sexe);
+  }
 }
 
 export var pipes = Object.assign({}, defaultPipes, {
