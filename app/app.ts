@@ -48,11 +48,9 @@ class App {
   deleteFood(event, i, food) {
       event.preventDefault();
 
-      console.log(food.calories);
       var calories = food.calories;
       this.calories -= calories;
-      this.foodList.splice(i,1);
-      
+      this.foodList.splice(i,1);     
 
     }
 
