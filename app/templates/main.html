@@ -23,7 +23,10 @@
 </form>
 
 <h1>Résultats caloriques : {{calories}} kcal</h1>
-<li *ng-for="#food of foodList">{{food.name}} : {{food.poids}}grammes = {{food.calories}}kcal</li>
+<ul>
+	<li *ng-for="#food of foodList, #i = index">{{food.name}} : {{food.poids}}grammes = {{food.calories}}kcal <button (click)='deleteFood($event, i, food, poids)'>&#10006</button></li>
+</ul>
+
 
 
 

@@ -45,6 +45,17 @@ class App {
 
     }
 
+  deleteFood(event, i, food) {
+      event.preventDefault();
+
+      console.log(food.calories);
+      var calories = food.calories;
+      this.calories -= calories;
+      this.foodList.splice(i,1);
+      
+
+    }
+
     calculateKcal(food, poids){
       var calories = parseInt(food.calories * (poids/100) );
       this.foodList.push({"name":food.name, "calories":calories, "poids":poids.value });
