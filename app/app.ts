@@ -1,6 +1,8 @@
 /// <reference path="../typings/tsd.d.ts" />
-import {Component, View, bootstrap, NgFor, NgIf} from 'angular2/angular2';
+import {Component, View, bootstrap, NgFor, NgIf, defaultPipes, PipeRegistry, bind} from 'angular2/angular2';
 import {FetchService} from 'services/fetchService';
+import {PositifPipe} from 'pipes/positifPipe';
+
 
 @Component({
   selector: 'app',
@@ -67,4 +69,10 @@ class App {
     }
 }
 
-bootstrap(App);
+export var pipes = Object.assign({}, defaultPipes, {
+  positif: [
+    new PositifPipe()
+  ]
+});
+
+bootstrap(App, bind(PipeRegistry).toValue(new PipeRegistry(pipes)));

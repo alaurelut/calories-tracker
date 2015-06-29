@@ -22,7 +22,7 @@
 	<button (click)='addFood($event, aliment, poids)'>Submit</button>
 </form>
 
-<h1>Résultats caloriques : {{calories}} kcal</h1>
+<h1>Résultats caloriques : {{calories }} kcal</h1>
 <li *ng-for="#food of foodList">{{food.name}} : {{food.poids}}grammes = {{food.calories}}kcal</li>
 
 
@@ -30,4 +30,4 @@
 <h1>Besoin journalier : {{besoin}} kcal</h1>
 
 <h1 *ng-if="(besoin - calories) > 0">Vous avez encore besoin de {{besoin - calories}} kcal aujourd'hui</h1>
-<h1 *ng-if="(besoin - calories) < 0">Vous avez mangé un excédant de {{besoin - calories}} kcal aujourd'hui</h1>
+<h1 *ng-if="(besoin - calories) < 0">Vous avez mangé un excédant de {{ (besoin - calories) | positif}} kcal aujourd'hui</h1>
