@@ -1,4 +1,4 @@
-<h1>Entrez ce que vous avez mangé : </h1>
+<h1>Entrez ce que vous avez mangé aujourd'hui : </h1>
 
 <form (submit)="addFood($event, aliment, poids)">
 	<input type="text" placeholder="Nouvel aliment" #aliment>
@@ -12,18 +12,20 @@
 
 <h1>Calculer votre besoin en apport calorique journalier</h1>
 
-<form (submit)="calculMetabolisme($event, sexe, taille, masse, age)">
+<form (submit)="calculMetabolisme($event, taille, masse, age)">
 	<input type="text" placeholder="taille (en cm)" #taille>
 	<input type="text" placeholder="masse (en kg)" #masse>
 	<input type="text" placeholder="age (en année)" #age>
  	
  	<label for="homme">Homme:</label>
-    <input id="homme" type="radio" name="sexe" #sexe value="homme" />
+    <input id="homme" type="radio" name="sexe" value="homme" />
 
     <label for="femme">Femme:</label>
-    <input id="femme" type="radio" name="sexe" #sexe value="femme" />
+    <input id="femme" type="radio" name="sexe" value="femme" />
 
-	<button (click)='calculMetabolisme($event, sexe, taille, masse, age)'>Submit</button>
+	<button (click)='calculMetabolisme($event, taille, masse, age)'>Submit</button>
 </form>
 
 <h1>Besoin journalier : {{besoin}} kcal</h1>
+
+<h1>Vous avez encore besoin de {{besoin - calories}} kcal aujourd'hui</h1>

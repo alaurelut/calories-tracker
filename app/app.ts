@@ -25,7 +25,7 @@ class App {
     fetchService.loadFoods().then(response => {
       this.foods = response;
     }, response => {
-      console.warn("foods loading failed (it should, file doesnt exist)");
+      // console.warn("foods loading failed (it should, file doesnt exist)");
     });
 
   }
@@ -35,7 +35,7 @@ class App {
       
       for (var i = 0; i < this.foods.length; i++) {
         if( this.foods[i].name.indexOf(aliment.value) != -1){
-          console.log(poids.value);
+          // console.log(poids.value);
           this.calculateKcal(this.foods[i], poids.value);
           break;
         }
@@ -52,21 +52,16 @@ class App {
       this.foodList.push({"name":food.name, "calories":this.calories, "poids":poids });
     }
 
-    calculMetabolisme(event, sexe, taille, masse, age){
+    calculMetabolisme(event, taille, masse, age){
 
       event.preventDefault();
 
-      console.log(sexe.value);
-      console.log(taille.value);
-      console.log(masse.value);
-      console.log(age.value);
-
-      if (sexe.value == "homme") {
-        this.besoin = 66.5 + (13.8 * masse.value) + (5 * taille.value) - (6.8 * age.value);
+      if (document.getElementById('homme').checked) {
+        this.besoin = parseInt( 66.5 + (13.8 * masse.value) + (5 * taille.value) - (6.8 * age.value) );
       }
       else
       {
-        this.besoin = 655.1 + (9.6 * masse.value) + (1.9 * taille.value) - (4.7 * age.value);
+        this.besoin = parseInt( 655.1 + (9.6 * masse.value) + (1.9 * taille.value) - (4.7 * age.value) );
       }
 
     }
